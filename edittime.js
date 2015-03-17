@@ -94,7 +94,7 @@ AddAction(1, af_none, "Set options", "Options", "Set options to {0}", "Set optio
 //				 description);	// description in expressions panel
 
 // example
-AddExpression(0, ef_return_number, "Leet expression", "My category", "MyExpression", "Return the number 1337.");
+//AddExpression(0, ef_return_number, "Leet expression", "My category", "MyExpression", "Return the number 1337.");
 
 ////////////////////////////////////////
 ACESDone();
